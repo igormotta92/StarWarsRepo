@@ -2,4 +2,6 @@ Luke Skywalker
 Obi Wan Kenobi
 Master Youda
 Leia Organa
-Jaba the Hutt
+Chewbacca
+Han Solo
+Jabba the Hutt
